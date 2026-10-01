@@ -1,0 +1,113 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Dependencies
+node_modules/
+jspm_packages/
+bower_components/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.output/
+.vercel/
+.netlify/
+.wrangler/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+secrets.json
+service-account*.json
+credentials.json
+
+# Caches
+.cache/
+.temp/
+.tmp/
+*.tmp
+*.temp
+.eslintcache
+.stylelintcache
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.nx/
+
+# Test and coverage output
+coverage/
+*.lcov
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+cypress/screenshots/
+cypress/videos/
+
+# Editor and IDE files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Local server / database files
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
+# Compressed and backup archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+backup/
+backups/
+
+# Documentation and notes
+*.log.md
+scratch/
+tmp/
+
+# Screenshots and local media
+screenshots/
+screen-records/
+*.mp4
+*.mov
+.DS_Store
