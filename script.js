@@ -3,9 +3,9 @@
 document.documentElement.classList.add("js");
 
 const BUSINESS = {
-    name: "Sree Cabs & Travels",
-    whatsapp: "YOUR_PHONE_NUMBER",
-    location: "Srivaikuntam, Tamil Nadu 628621"
+    name: "DigiMaraa Travels",
+    whatsapp: "917200251560",
+    location: "Srivaikundam, Tuticorin-628 601, Tamilnadu, India"
 };
 
 const WHATSAPP_BASE_URL = "https://wa.me/";
